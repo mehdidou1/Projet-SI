@@ -2,6 +2,11 @@ Les liens overleaf :
 Manuel d'utilisation : https://www.overleaf.com/read/pbvfnwmhqjfp#5eb705
 Rapport : https://www.overleaf.com/read/kjwswwhfrvtn#48df37
 
+Les principaux Ajouts :
+
+fonctionnalité Boîte de réception 
+fonctionnalité notifications 
+Résolution de quelques erreurs notamment dans l'ajout des favoris, lien entre soldeCongé et Congé.
 
 Répartition des tâches
 
