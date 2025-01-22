@@ -1,0 +1,87 @@
+Les liens overleaf :
+Manuel d'utilisation : https://www.overleaf.com/read/pbvfnwmhqjfp#5eb705
+Rapport : https://www.overleaf.com/read/kjwswwhfrvtn#48df37
+
+
+Répartition des tâches
+
+Niveau conceptuel :  
+Les diagrammes UML :  
+1. Diagramme de cas d'utilisation  
+   1.1 Gestion des employés : Kouchih Ahmed Ayoub  
+   1.2 Gestion des recrutements : Kouchih Ahmed Ayoub  
+   1.3 Gestion des salaires : Kouchih Ahmed Ayoub  
+   1.4 Gestion des pointages : Kouchih Ahmed Ayoub  
+   1.5 Gestion des congés : Kouchih Ahmed Ayoub  
+   1.6 Gestion des contrats : Kouchih Ahmed Ayoub  
+   1.7 Gestion de l’historique : Kouchih Ahmed Ayoub  
+   1.8 Analyse des données : Kouchih Ahmed Ayoub  
+   1.9 Tableaux de bord : Kouchih Ahmed Ayoub  
+
+2. Diagramme de séquence  
+   2.1 Ajout d'un employé : Kouchih Ahmed Ayoub  
+   2.2 Modification d'un employé : Kouchih Ahmed Ayoub  
+   2.3 Suppression d'un employé : Kouchih Ahmed Ayoub  
+
+Étude conceptuelle Merise :  
+3.1 Établissement des règles de gestion : Elkolei Mehdi  
+3.2 Dictionnaire de données : Elkolei Mehdi  
+3.3 Modèle conceptuel de données : Elkolei Mehdi  
+3.4 Modèle logique de données : Elkolei Mehdi  
+
+Codification :  
+4.1 Élaboration de la BDD : Kouchih Ahmed Ayoub  
+
+Implémentation :  
+
+Tâches Frontend :  
+5.1 Design UI/UX : Rehal Amel  
+5.2 Code HTML : Rehal Amel  
+5.3 Code CSS : Rehal Amel  
+
+Tâches Backend :  
+6.1 Gestion des employés  
+   6.1.1 Ajout d'un employé : Elkolei Mehdi, Rehal Amel  
+   6.1.2 Modification d'un employé : Rehal Amel  
+   6.1.3 Suppression d'un employé : Rehal Amel  
+
+6.2 Gestion des services  
+   6.2.1 CRUD d’un service : Rehal Amel  
+
+6.3 Gestion des favoris  
+   6.3.1 Rehal Amel, Elkolei Mehdi  
+
+6.4 Gestion des recrutements  
+   6.4.1 Consultation des candidatures : Rehal Amel  
+
+6.5 Gestion des salaires  
+   6.5.1 CRUD d’un salaire : Rehal Amel  
+   6.5.2 Consultation de la fiche de paie : Rehal Amel  
+
+6.6 Gestion des absences / retards  
+   6.6.1 Rehal Amel, Elkolei Mehdi  
+
+6.7 Gestion des congés  
+   6.7.1 Ajout d'un congé : Rehal Amel  
+   6.7.2 Suppression d'un congé : Rehal Amel  
+   6.7.3 Ajout d'un type de congé : Rehal Amel, Kouchih Ahmed Ayoub  
+   6.7.4 Lien entre solde de congés et congés : Elkolei Mehdi  
+
+6.8 Gestion des contrats  
+   6.8.1 CRUD d’un contrat : Rehal Amel, Kouchih Ahmed Ayoub  
+
+6.9 Gestion de l’historique  
+   6.9.1 Rehal Amel  
+
+6.10 Gestion des entretiens  
+   6.10.1 Rehal Amel  
+
+6.11 Offres d'emploi  
+   6.11.1 Rehal Amel  
+
+6.12 Boîte de réception et notifications  
+   6.12.1 Rehal Amel  
+
+Rédaction :  
+7.1 Rédaction du rapport avec LaTeX : Kouchih Ahmed Ayoub  
+7.2 Rédaction du manuel d'utilisation : Kouchih Ahmed Ayoub  
